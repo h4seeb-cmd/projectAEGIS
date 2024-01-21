@@ -2,8 +2,7 @@
 layout: home
 search_exclude: true
 ---
-A modified blog for CSA Based on Fastpages- Tirth Thakkar & Haseeb Beg   
+DevLogs for Project Aegis, a racing game that will probably never see the light of day
 
 
-
-# Posts
+# Logs:
